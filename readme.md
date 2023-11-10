@@ -1,2 +1,3 @@
 - [Human Interface Guidelines](https://www.haiku-os.org/docs/HIG/index.xml) a.k.a How To Design Good Software (by Haiku OS team).
 - [BrainF Compiler + JIT introduction](https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html) ([C++ version](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter))
+- [The forbidden fruit of Github Repos](https://github.com/trimstray/the-book-of-secret-knowledge)
